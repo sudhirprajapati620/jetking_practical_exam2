@@ -1,0 +1,66 @@
+
+
+Q1. Write the differences between Web3.js and Ether.js.
+
+ans.
+
+Ether.js
+web3.0 is the third generation enternet of the world wide web. 
+Ethers.js is a library that helps developers create decentralized applications.
+website to developed direct interact with the blockchain technoloty.
+programming language using HTTP, IPC and websocket.
+
+Web3. js 
+web3.js library collection that helps developers connect to the Ethereum network.
+ Both libraries are important for Ethereum development and
+ have own strengths and weaknesses.
+
+
+Q2. Demonstrate how to read data from the Smart Contract with the
+help of Web3.js.
+
+ans. 
+web3.0 is the third generation of internet of the wirld wide web.
+ 
+web3.js library provides ethereum package to interact with smart contracts. The ethereum package further contains a contract object with the functions required to interact with a smart contract compiler blockchain deployed on the Ethereum network.
+
+read the data from smart contract application binery interface and address, and more etc.
+
+ABI
+ABI is an interface between the front end and the back end of a Dapp. ABI contains information about the functions present in the smart contact along with their parameters and return type.
+
+Address
+Every account and smart contract in the Ethereum blockchain has an address. 
+We need the address to locate the smart contract and interact with it.
+
+for example. 
+ we will read the name, symbol, and total supply 
+from the smart contract of the Tether USD token.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
